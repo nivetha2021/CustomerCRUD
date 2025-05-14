@@ -3,8 +3,6 @@ package com.Project.CRUD.CustomerService;
 import com.Project.CRUD.CustomerEntity.Customer;
 import com.Project.CRUD.CustomerRepo.CustomerRepo;
 import com.Project.CRUD.DTO.CustomerDTO;
-import com.Project.CRUD.DTO.CustomerSaveDTO;
-import com.Project.CRUD.DTO.CustomerUpdateDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
